@@ -36,6 +36,8 @@ Selected AI projects I've designed, built and shipped. Everything here follows t
 
 **Stack.** Curriculum design, workshops, prompt engineering, train-the-trainer, Claude Code / agent skills.
 
+**Public coverage (official Yandex announcements, in Russian):** [the AI guide launch](https://yandex.ru/company/news/11-08-2025-02) · [the pilot AI training programme](https://yandex.ru/company/news/31-10-2025-02) · [the free AI course on Yandex Practicum](https://yandex.ru/company/news/22-07-2026-01)
+
 ## 4. Grant application processing — 30–60 minutes per case → minutes
 
 **Pain.** Each incoming grant application needed 30–60 minutes of manual eligibility checks before a decision.
