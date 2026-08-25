@@ -24,7 +24,7 @@ Selected AI projects I've designed, built and shipped. Everything here follows t
 
 **Stack.** Multi-agent LLM orchestration, query taxonomy design, independent LLM-as-judge evaluation with web-grounded fact-checking.
 
-**Result.** The analysis showed routing demand varies dramatically by topic — from marginal to dominant — which turned a "roll it out everywhere" plan into a targeted rollout where navigation demand is real. The methodology was documented and is reusable for any answer-quality evaluation.
+**Result.** A reusable evaluation methodology — query taxonomy, reliability scale and multi-agent fact-checking — that became the evidence base for the team's rollout decisions (the wider product is confidential; the method is mine to show).
 
 ## 3. AI enablement — external programme and internal adoption
 
